@@ -21,7 +21,7 @@
     </div>
 
     <div class="hero-content">
-      <p class="eyebrow">Travel couple on YouTube</p>
+      <p class="eyebrow">We're a couple on YouTube</p>
       <h1>Couple Story + Cultural Journey</h1>
       <p class="lead">
       We’re a couple and family vlog traveling between Europe and Japan.
