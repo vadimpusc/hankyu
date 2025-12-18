@@ -66,8 +66,7 @@
 
       <a
         class="shop-link"
-        href="#"
-        target="_blank"
+        href="/"
         rel="noopener"
       >
         Shop
